@@ -1,53 +1,50 @@
-# 🏆 Pr0nuc!ate – AI-Driven Speech Therapy  
+# 🧠 Spoko – AI-Driven Speech Therapy
 
-## 🌟 Awards & Recognition  
-🥈 **2nd Place** – CMD-F 2025 (nwPlus)  
-🏅 **Best Use of Cloudflare AI**  
-🔍 **Shortlisted for 1Password Sponsor Prize**  
+## 💡 Inspiration
 
-## 💡 Inspiration  
-Many individuals with speech disorders (due to stroke, cerebral palsy, autism, etc.) face barriers in accessing speech therapy. **Pr0nuc!ate** aims to provide an accessible, AI-powered alternative that delivers personalized exercises and real-time feedback—breaking geographical and financial limitations.  
+Some individuals with speech disorders—caused by conditions such as stroke, cerebral palsy, or autism—face significant challenges in accessing reliable therapy services. With **Spoko**, I set out to build a personalized, AI-powered solution that removes geographic and financial barriers, making speech therapy accessible to anyone, anywhere.
 
-## 🚀 What It Does  
-🔊 **Real-time speech analysis** using AI & voice recognition  
-🎮 **Gamified exercises** to encourage consistent practice  
-📊 **Progress tracking** for improved speech fluency & articulation  
+## 🚀 What It Does
 
-## 🛠️ Tech Stack  
-- **Frontend:** Vite + React  
-- **Backend:** Node.js + MongoDB  
-- **AI & Speech Recognition:** Google API + Cloudflare AI  
+**Spoko** is a web-based application designed to support users with speech impairments through:
 
-## 🔥 Challenges We Faced  
-- Integrating AI-driven speech recognition in a web app  
-- Ensuring real-time feedback with minimal latency  
-- Implementing secure authentication & user data protection  
+* 🗣️ **Tailored speech exercises** to target specific challenges
+* ⏱️ **Real-time feedback** via integrated voice recognition
+* 📊 **Progress tracking** to monitor improvement in fluency, articulation, and pronunciation
+* 🎮 **Gamified experiences** to enhance engagement and consistency
 
-## 🎓 What We Learned  
-- Deepened our understanding of **speech recognition technology**  
-- Explored **database management** and cybersecurity best practices  
-- Designed for **accessibility** to cater to diverse user needs  
+## 🛠️ Tech Stack
 
-## 🔐 Security & Privacy  
-🛡️ **1Password-inspired security measures**  
-🔍 **IP tracking for login monitoring**  
-🤖 **reCAPTCHA integration** to prevent bot spam  
+* 💻 **Frontend:** Vite + React
+* 🧰 **Backend:** Node.js + MongoDB
+* 🤖 **AI & Voice Recognition:** Google Cloud Speech-to-Text + Cloudflare AI
 
-## 🌍 Accessibility-Focused Design  
-Our UI/UX prioritizes **elderly users, children, and individuals with speech impairments**. We tailored:  
-🎨 **Color schemes** for readability  
-🔤 **Typography** for clarity  
-🎲 **Interactive games** for engagement  
+## 🧩 Challenges I Faced
 
-## 👥 Team  
-👩‍💻 Sonja Deng  
-👩‍💻 Fuka Nagata  
-👩‍💻 Jamille Vicente  
-👩‍💻 Camryn Wutke  
+Integrating real-time voice recognition into a browser-based app required extensive fine-tuning of AI models and latency optimization. Handling speech data accurately, securely, and responsively was one of the most complex aspects of development.
 
-## 🔗 Try It Out!  
-[Devpost](https://devpost.com/software/pr0nuc-ate) | [Figma Design](https://www.figma.com/design/GAtL0Y1s1mVu2fFDFSzhoY/cmd-f-2025-Wireframes?node-id=29-6&t=WCgIOEHP5xCP4jTa-1)  | [Figjam Brainstorm](https://www.figma.com/board/fyThao1JyQqHUY6IoRmvhq/cmd-f-2025-Idea-dump?node-id=0-1&t=Idxa4u1aWwU6NyQ6-1)  
+## 📚 What I Learned
 
+This project deepened my experience in:
 
----
-✨ Built with ❤️ at CMD-F 2025 ✨  
+* 🔍 Applying **speech recognition technologies** to real-world challenges
+* 🛡️ Building **secure, full-stack web applications** from the ground up
+* 🎯 Designing with **accessibility and inclusivity** as core priorities
+
+## 🔐 Cybersecurity
+
+Inspired by platforms like 1Password, I implemented robust data protection features, including:
+
+* 🗄️ Encrypted storage of usernames and passwords in MongoDB
+* 🌍 IP address tracking to detect suspicious login activity
+* 🤖 reCAPTCHA for bot prevention and spam filtering
+* 🔐 Backend authentication built with best practices for user security
+
+## 🌍 Accessibility-Focused Design
+
+Accessibility was a central focus of Spoko’s development. After extensive research on the needs of people with speech impairments—including children and elderly users—I tailored the design to support usability and clarity:
+
+* 🎨 High-contrast, readable color schemes
+* 🔤 Clear, legible typography optimized for all ages
+* 🧩 Intuitive and inclusive games designed for therapeutic support
+  These features also serve individuals practicing public speaking or working through speech-related anxiety.

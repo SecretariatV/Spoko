@@ -1,5 +1,5 @@
 {
-  "name": "cmdf2025",
+  "name": "spoko",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -55,13 +55,13 @@
   "main": "eslint.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SonjiaD/cmdf2025.git"
+    "url": "git+https://github.com/SecretariatV/spoko.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SonjiaD/cmdf2025/issues"
+    "url": "https://github.com/SecretariatV/spoko/issues"
   },
-  "homepage": "https://github.com/SonjiaD/cmdf2025#readme"
+  "homepage": "https://github.com/SecretariatV/spoko#readme"
 }
